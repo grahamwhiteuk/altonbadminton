@@ -1,0 +1,57 @@
+MONTH,DAY,DAY OF MONTH,HOME,AWAY,HOME GAMES,AWAY GAMES
+September,Fri,16th,Haslemere A,Haslemere B,12,1
+,Fri,30th,Haslemere B,Haslemere A,2,11
+October,Tue,4th,Eagles,Haslemere B,9,6
+,Thu,6th,The Edge A,Four Marks,10,4
+,Thu,13th,The Edge A,Haslemere A,11,6
+,Fri,14th,Midhurst '82,Eagles,7,6
+,Tue,18th,The Grange,Four Marks,2,12
+,Thu,20th,The Edge A,The Grange,11,2
+,Wed,26th,Four Marks,Eagles,9,6
+,Fri,21st,Midhurst '82,Haslemere B,8,4
+,Mon,31st,Four Marks,Midhurst '82,6,6
+November,Tue,1st,Eagles,The Edge A,4,10
+,Thu,3rd,The Edge A,Midhurst '82,12,2
+,Fri,11th,Haslemere B,The Edge A,3,12
+,Fri,11th,Haslemere A,Eagles,11,2
+,Tue,15th,The Grange,Midhurst '82,2,12
+,Fri,18th,Haslemere B,Four Marks,5,10
+,Tue,29th,Eagles,The Grange,9,4
+December,Fri,2nd,Midhurst '82,Haslemere A,7,6
+January,Wed,4th,Four Marks,Haslemere A,9,7
+,Tue,10th,The Grange,Haslemere A,4,10
+,Fri,20th,Haslemere A,The Edge A,9,7
+,Fri,27th,Midhurst '82,The Grange,12,1
+,Mon,30th,Four Marks,The Edge A,8,5
+February,Fri,3rd,Haslemere A,Midhurst '82,6,7
+,Tue,7th,The Grange,The Edge A,6,9
+,Tue,7th,Eagles,Four Marks,4,11
+,Fri,10th,Midhurst '82,Four Marks,5,9
+,Wed,22nd,Four Marks,The Grange,10,4
+,Fri,24th,Haslemere B,Midhurst '82,4,8
+March,Tue,6th,The Grange,Haslemere B,7,8
+,Fri,9th,Haslemere A,Four Marks,7,8
+,Fri,9th,Midhurst '82,The Edge A,6,7
+,Tue,13th,Eagles,Haslemere A,4,11
+,Fri,16th,Haslemere B,Eagles,9,5
+,Thu,22nd,The Edge A,Haslemere B,8,6
+,Mon,26th,Four Marks,Haslemere B,10,4
+,Tue,27th,The Grange,Eagles,5,8
+,Fri,30th,Haslemere A,The Grange,6,10
+April,Thu,12th,The Edge A,Eagles,11,2
+,Tue,17th,Eagles,Midhurst '82,7,7
+Walkover, , ,Haslemere B,The Grange,0,12
+Edge-B Void, , ,The Edge A,The Edge B,12,0
+, , ,The Grange,The Edge B,12,0
+, , ,Four Marks,The Edge B,12,0
+, , ,The Edge B,The Edge A,0,12
+, , ,The Edge B,Eagles,0,12
+, , ,Eagles,The Edge B,12,0
+, , ,Haslemere B,The Edge B,12,0
+, , ,The Edge B,Midhurst '82,0,12
+, , ,Midhurst '82,The Edge B,12,0
+, , ,The Edge B,The Grange,0,12
+, , ,The Edge B,Four Marks,0,12
+, , ,Haslemere A,The Edge B,12,0
+, , ,The Edge B,Haslemere B,0,12
+, , ,The Edge B,Haslemere A,0,12

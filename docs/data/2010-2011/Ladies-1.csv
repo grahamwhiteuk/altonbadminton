@@ -1,0 +1,57 @@
+MONTH,DAY,DAY OF MONTH,HOME,AWAY,HOME GAMES,AWAY GAMES
+September,Thu,9th,The Edge A,The Edge B,12,0
+,Thu,16th,The Edge B,Four Marks,2,11
+,Fri,17th,Haslemere A,Haslemere B,11,5
+,Fri,24th,Haslemere B,Haslemere A,8,7
+,Mon,27th,Four Marks,Midhurst '82,12,0
+October,Mon,4th,Four Marks,Eagles,11,3
+,Tue,5th,The Grange,Haslemere A,1,12
+,Fri,8th,Haslemere A,Four Marks,9,5
+,Fri,8th,Haslemere B,The Edge A,2,10
+,Fri,8th,Midhurst '82,The Edge B,10,2
+,Thu,14th,The Edge B,The Grange,4,11
+,Fri,15th,Haslemere B,Midhurst '82,12,2
+,Mon,18th,Four Marks,Haslemere B,10,2
+,Thu,21st,The Edge B,The Edge A,1,12
+,Fri,22nd,Haslemere B,The Grange,12,0
+,Thu,28th,The Edge B,Haslemere A,2,11
+November,Thu,4th,The Edge A,Haslemere A,7,10
+,Tue,9th,The Grange,The Edge A,3,10
+,Fri,19th,Midhurst '82,The Edge A,6,6
+,Tue,23rd,The Grange,Midhurst '82,0,12
+December,Tue,7th,The Grange,The Edge B,12,1
+January,Tue,4th,Eagles,The Edge B,10,5
+,Fri,7th,Haslemere A,The Edge A,10,4
+,Thu,13th,The Edge A,Eagles,10,3
+,Tue,18th,The Grange,Four Marks,5,10
+,Tue,18th,Eagles,Haslemere A,5,8
+,Fri,21st,Haslemere B,The Edge B,6,9
+,Fri,21st,Midhurst '82,The Grange,12,0
+,Wed,26th,Four Marks,Haslemere A,7,7
+,Thu,27th,The Edge B,Haslemere B,10,5
+February,Tue,1st,Eagles,Four Marks,6,10
+,Fri,4th,Haslemere B,Four Marks,5,10
+,Tue,8th,Eagles,The Edge A,0,12
+,Fri,11th,Haslemere A,Eagles,10,4
+,Thu,17th,The Grange,Eagles,7,8
+,Thu,17th,The Edge A,Midhurst '82,7,8
+,Fri,18th,Haslemere A,The Grange,10,3
+,Mon,21st,Four Marks,The Edge A,12,1
+March,Fri,11th,Midhurst '82,Haslemere B,10,3
+,Tue,15th,Eagles,The Grange,9,5
+,Wed,16th,Haslemere A,Midhurst '82,5,10
+,Thu,17th,The Edge A,Haslemere B,8,6
+,Fri,25th,Midhurst '82,Four Marks,8,6
+,Tue,29th,Eagles,Midhurst '82,2,12
+April,Fri,8th,Haslemere A,The Edge B,10,2
+,Mon,11th,Four Marks,The Edge B,11,2
+,Mon,11th,The Edge A,The Grange,12,2
+,Wed,13th,Four Marks,The Grange,11,3
+,Thu,14th,The Edge B,Midhurst '82,7,7
+,Tue,19rd,Eagles,Haslemere B,9,7
+,Thu,21st,The Grange,Haslemere B,7,10
+,Tue,26th,Midhurst '82,Haslemere A,7,6
+,Thu,28th,The Edge A,Four Marks,11,4
+Walkover, , ,Haslemere B,Eagles,12,0
+, , ,The Edge B,Eagles,12,0
+Unplayed, , ,Midhurst '82,Eagles,7,4
