@@ -1,42 +1,42 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5db6d4bcd224819752a",
+    "revision": "2dc712483f27b66c2d64",
     "url": "/css/about.2bbe869c.css"
   },
   {
-    "revision": "0fc341abf2d0d477cae4",
+    "revision": "a4c315fff7a013cd62d6",
     "url": "/css/app.ef2b0e7b.css"
   },
   {
-    "revision": "d1ee3dc204d03d757a89",
+    "revision": "58baccb196e9b220aabb",
     "url": "/css/clubs.c2738c5d.css"
   },
   {
-    "revision": "dc8659d1600e20cf87c8",
+    "revision": "7fc9795985c53630eab0",
     "url": "/css/constitution.51b28a4c.css"
   },
   {
-    "revision": "b290d3b984fc1267bc0d",
+    "revision": "84dcfbc9b988a6535bf3",
     "url": "/css/contact.c60ac52e.css"
   },
   {
-    "revision": "784a8660368a1e7cc061",
+    "revision": "aba1ffddfbbd6480e20e",
     "url": "/css/links.50b5aa18.css"
   },
   {
-    "revision": "f9a22fc2086795046f1f",
+    "revision": "7f00ccf6587b7f9317cf",
     "url": "/css/match-cards.a71bca52.css"
   },
   {
-    "revision": "89f3143f65a28ba01f17",
+    "revision": "ad594efa9b800e42ebdd",
     "url": "/css/results.844cfe00.css"
   },
   {
-    "revision": "200e5bafe0d6ec32bac5",
+    "revision": "22690c9c49d6561b239a",
     "url": "/css/rules.8b4d7341.css"
   },
   {
-    "revision": "ff0ca6ab74850e5f97ba",
+    "revision": "a117bdb258bab1af5848",
     "url": "/css/tables.47901d7f.css"
   },
   {
@@ -420,52 +420,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/pdf.21a61439.jpg"
   },
   {
-    "revision": "ab2ff129a2a5e8a2c4f2a801d6236e9c",
+    "revision": "c1fc81a06748806e0ad53acb1029daae",
     "url": "/index.html"
   },
   {
-    "revision": "c5db6d4bcd224819752a",
-    "url": "/js/about.8f2fdf96.js"
+    "revision": "2dc712483f27b66c2d64",
+    "url": "/js/about.8c431542.js"
   },
   {
-    "revision": "0fc341abf2d0d477cae4",
-    "url": "/js/app.779596da.js"
+    "revision": "a4c315fff7a013cd62d6",
+    "url": "/js/app.5c5ca0ed.js"
   },
   {
     "revision": "97411d3818f586c9b013",
     "url": "/js/chunk-vendors.88b10278.js"
   },
   {
-    "revision": "d1ee3dc204d03d757a89",
-    "url": "/js/clubs.f2a7a2cf.js"
+    "revision": "58baccb196e9b220aabb",
+    "url": "/js/clubs.008b7d6f.js"
   },
   {
-    "revision": "dc8659d1600e20cf87c8",
-    "url": "/js/constitution.e174264b.js"
+    "revision": "7fc9795985c53630eab0",
+    "url": "/js/constitution.327b8be5.js"
   },
   {
-    "revision": "b290d3b984fc1267bc0d",
-    "url": "/js/contact.f1848d0d.js"
+    "revision": "84dcfbc9b988a6535bf3",
+    "url": "/js/contact.60f39c1d.js"
   },
   {
-    "revision": "784a8660368a1e7cc061",
-    "url": "/js/links.571a18bb.js"
+    "revision": "aba1ffddfbbd6480e20e",
+    "url": "/js/links.d2559a0b.js"
   },
   {
-    "revision": "f9a22fc2086795046f1f",
-    "url": "/js/match-cards.1a2bd2a3.js"
+    "revision": "7f00ccf6587b7f9317cf",
+    "url": "/js/match-cards.7795b9bd.js"
   },
   {
-    "revision": "89f3143f65a28ba01f17",
-    "url": "/js/results.1e0ae13a.js"
+    "revision": "ad594efa9b800e42ebdd",
+    "url": "/js/results.1700445c.js"
   },
   {
-    "revision": "200e5bafe0d6ec32bac5",
-    "url": "/js/rules.bd59d6d4.js"
+    "revision": "22690c9c49d6561b239a",
+    "url": "/js/rules.764433c8.js"
   },
   {
-    "revision": "ff0ca6ab74850e5f97ba",
-    "url": "/js/tables.d40ff91e.js"
+    "revision": "a117bdb258bab1af5848",
+    "url": "/js/tables.fc896404.js"
   },
   {
     "revision": "519050ef1c78f875dc034f585cde5ec6",
