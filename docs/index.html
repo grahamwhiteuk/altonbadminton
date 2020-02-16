@@ -1,4 +1,12 @@
 <!DOCTYPE html><html lang=en><head><script async src="https://www.googletagmanager.com/gtag/js?id=UA-158615909-1"></script><script>window.dataLayer = window.dataLayer || [];
+      function() redirectGitHubPages {
+        let redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect != location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      }
+      redirectGitHubPages();
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
