@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.2bbe869c.css"
   },
   {
-    "revision": "da1ef66806d1e76f5e66",
+    "revision": "09989d9433154de44cca",
     "url": "/css/app.5263e661.css"
   },
   {
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/match-cards.a71bca52.css"
   },
   {
-    "revision": "ad594efa9b800e42ebdd",
-    "url": "/css/results.844cfe00.css"
+    "revision": "8c3ded3c126b6a6b9f04",
+    "url": "/css/results.61d54bd4.css"
   },
   {
     "revision": "22690c9c49d6561b239a",
     "url": "/css/rules.8b4d7341.css"
   },
   {
-    "revision": "a117bdb258bab1af5848",
-    "url": "/css/tables.47901d7f.css"
+    "revision": "af379138d53ecb278748",
+    "url": "/css/tables.4b5ba6bf.css"
   },
   {
     "revision": "f7c923f22581bfd115a155ea794d8852",
@@ -420,7 +420,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/pdf.21a61439.jpg"
   },
   {
-    "revision": "3871d291d627068c833f8a3a925940dd",
+    "revision": "5f4af1d4169b58e3688dfcd9d48b0222",
     "url": "/index.html"
   },
   {
@@ -428,8 +428,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.8c431542.js"
   },
   {
-    "revision": "da1ef66806d1e76f5e66",
-    "url": "/js/app.423aafe2.js"
+    "revision": "09989d9433154de44cca",
+    "url": "/js/app.4d8132d8.js"
   },
   {
     "revision": "97411d3818f586c9b013",
@@ -456,16 +456,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/match-cards.7795b9bd.js"
   },
   {
-    "revision": "ad594efa9b800e42ebdd",
-    "url": "/js/results.1700445c.js"
+    "revision": "8c3ded3c126b6a6b9f04",
+    "url": "/js/results.0df968aa.js"
   },
   {
     "revision": "22690c9c49d6561b239a",
     "url": "/js/rules.764433c8.js"
   },
   {
-    "revision": "a117bdb258bab1af5848",
-    "url": "/js/tables.fc896404.js"
+    "revision": "af379138d53ecb278748",
+    "url": "/js/tables.2331ec39.js"
   },
   {
     "revision": "519050ef1c78f875dc034f585cde5ec6",
