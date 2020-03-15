@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.2bbe869c.css"
   },
   {
-    "revision": "6a5f1d2e56870b6254c6",
-    "url": "/css/app.5263e661.css"
+    "revision": "7d99e9c8fec242bf116e",
+    "url": "/css/app.a8f7e8f1.css"
   },
   {
     "revision": "cf04212102d7771e2aba",
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/contact.c60ac52e.css"
   },
   {
-    "revision": "aba1ffddfbbd6480e20e",
-    "url": "/css/links.50b5aa18.css"
+    "revision": "b5c7e01c738c508c3184",
+    "url": "/css/links.47b0c230.css"
   },
   {
     "revision": "7f00ccf6587b7f9317cf",
     "url": "/css/match-cards.a71bca52.css"
   },
   {
-    "revision": "8c3ded3c126b6a6b9f04",
+    "revision": "652d168f2ee80f4c68dc",
     "url": "/css/results.61d54bd4.css"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/rules.8b4d7341.css"
   },
   {
-    "revision": "af379138d53ecb278748",
+    "revision": "445ae47fe209c999d159",
     "url": "/css/tables.4b5ba6bf.css"
   },
   {
@@ -420,7 +420,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/pdf.21a61439.jpg"
   },
   {
-    "revision": "0db32e3ae3f8dafd09efed691d16985e",
+    "revision": "0dea08ba8c689baf156f46f2741c1fe3",
     "url": "/index.html"
   },
   {
@@ -428,12 +428,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.8c431542.js"
   },
   {
-    "revision": "6a5f1d2e56870b6254c6",
-    "url": "/js/app.b56b89eb.js"
+    "revision": "7d99e9c8fec242bf116e",
+    "url": "/js/app.88c445d4.js"
   },
   {
-    "revision": "97411d3818f586c9b013",
-    "url": "/js/chunk-vendors.88b10278.js"
+    "revision": "3ccf526cca09e54dc37e",
+    "url": "/js/chunk-vendors.95e7ade8.js"
   },
   {
     "revision": "cf04212102d7771e2aba",
@@ -448,31 +448,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/contact.60f39c1d.js"
   },
   {
-    "revision": "aba1ffddfbbd6480e20e",
-    "url": "/js/links.d2559a0b.js"
+    "revision": "b5c7e01c738c508c3184",
+    "url": "/js/links.101b2548.js"
   },
   {
     "revision": "7f00ccf6587b7f9317cf",
     "url": "/js/match-cards.7795b9bd.js"
   },
   {
-    "revision": "8c3ded3c126b6a6b9f04",
-    "url": "/js/results.0df968aa.js"
+    "revision": "652d168f2ee80f4c68dc",
+    "url": "/js/results.1b03d0ff.js"
   },
   {
     "revision": "22690c9c49d6561b239a",
     "url": "/js/rules.764433c8.js"
   },
   {
-    "revision": "af379138d53ecb278748",
-    "url": "/js/tables.2331ec39.js"
+    "revision": "445ae47fe209c999d159",
+    "url": "/js/tables.23899458.js"
   },
   {
     "revision": "519050ef1c78f875dc034f585cde5ec6",
     "url": "/manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "f34620d0141b81281a12362fe4dacd5d",
     "url": "/robots.txt"
   }
 ]);
