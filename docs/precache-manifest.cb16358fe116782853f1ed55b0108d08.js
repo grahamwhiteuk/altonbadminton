@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8caec3fb3cfc6a3166b4",
-    "url": "/css/about.2bbe869c.css"
+    "revision": "fcc8a6f568190e8ac9bb",
+    "url": "/css/about.96aac889.css"
   },
   {
-    "revision": "954f919952c8cea85f9d",
-    "url": "/css/app.913ffef7.css"
+    "revision": "6931b4a5fcd6da51b182",
+    "url": "/css/app.ad10f368.css"
   },
   {
-    "revision": "960084f449a53028c096",
-    "url": "/css/clubs.4e4e555a.css"
+    "revision": "4f80b7656c61ec82b363",
+    "url": "/css/clubs.cb519123.css"
   },
   {
     "revision": "ec346366100ad0e8a6b0",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/match-cards.a71bca52.css"
   },
   {
-    "revision": "14cceeb201a3cfa8c30d",
-    "url": "/css/results.61d54bd4.css"
+    "revision": "91fd5ba04320defcbff4",
+    "url": "/css/results.45eef145.css"
   },
   {
     "revision": "54e5295b610a34ad74e0",
     "url": "/css/rules.8b4d7341.css"
   },
   {
-    "revision": "bda8e380d583ea1d131c",
-    "url": "/css/tables.4b5ba6bf.css"
+    "revision": "f2cf3cd669ce3558da79",
+    "url": "/css/tables.ed79b5ca.css"
   },
   {
     "revision": "f7c923f22581bfd115a155ea794d8852",
@@ -388,8 +388,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/avatar.jpg"
   },
   {
-    "revision": "14a8a0a2638a4fa1338b92005a03dec5",
-    "url": "/img/badmink.14a8a0a2.jpg"
+    "revision": "62997717350135f14976ba4219c7785e",
+    "url": "/img/badmink.62997717.png"
   },
   {
     "revision": "f27a502942aa52fe8e39266caf54a0f3",
@@ -420,24 +420,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/pdf.21a61439.jpg"
   },
   {
-    "revision": "ec936d64469b72153b4fc05379ddfa5b",
+    "revision": "b42c5f89db535b37ae09d52a50d0e67f",
     "url": "/index.html"
   },
   {
-    "revision": "8caec3fb3cfc6a3166b4",
-    "url": "/js/about.6cf2bc06.js"
+    "revision": "fcc8a6f568190e8ac9bb",
+    "url": "/js/about.e296f7ad.js"
   },
   {
-    "revision": "954f919952c8cea85f9d",
-    "url": "/js/app.030ecbb7.js"
+    "revision": "6931b4a5fcd6da51b182",
+    "url": "/js/app.849c263c.js"
   },
   {
     "revision": "73cdb17218fdc763d539",
     "url": "/js/chunk-vendors.258d7a0a.js"
   },
   {
-    "revision": "960084f449a53028c096",
-    "url": "/js/clubs.dd96f797.js"
+    "revision": "4f80b7656c61ec82b363",
+    "url": "/js/clubs.d950df3c.js"
   },
   {
     "revision": "ec346366100ad0e8a6b0",
@@ -456,16 +456,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/match-cards.fd1b6bbe.js"
   },
   {
-    "revision": "14cceeb201a3cfa8c30d",
-    "url": "/js/results.02e31019.js"
+    "revision": "91fd5ba04320defcbff4",
+    "url": "/js/results.e8bbe37e.js"
   },
   {
     "revision": "54e5295b610a34ad74e0",
     "url": "/js/rules.7878c170.js"
   },
   {
-    "revision": "bda8e380d583ea1d131c",
-    "url": "/js/tables.5cf2b59d.js"
+    "revision": "f2cf3cd669ce3558da79",
+    "url": "/js/tables.b93e8631.js"
   },
   {
     "revision": "f28e138da68bc0f59afbe9d5fa9adc3a",
