@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://www.altonbadminton.co.uk/sitemap.xml
