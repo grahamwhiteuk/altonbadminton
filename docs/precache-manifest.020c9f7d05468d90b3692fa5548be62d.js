@@ -470,5 +470,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f28e138da68bc0f59afbe9d5fa9adc3a",
     "url": "/manifest.json"
+  },
+  {
+    "revision": "f34620d0141b81281a12362fe4dacd5d",
+    "url": "/robots.txt"
   }
 ]);
