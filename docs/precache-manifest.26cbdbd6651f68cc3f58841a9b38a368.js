@@ -420,7 +420,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/pdf.21a61439.jpg"
   },
   {
-    "revision": "c30d9ef3594fad51d67da8ea3954958e",
+    "revision": "73c435c0a3efcc7f1fdcd4bbb5b8fa8a",
     "url": "/index.html"
   },
   {
