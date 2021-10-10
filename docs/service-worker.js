@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fcea91be5c9746ff1ac03ba4dc0dabc0.js"
+  "/precache-manifest.50f860804dd6bdbfca0e19cac1e3525b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "altonbadminton"});

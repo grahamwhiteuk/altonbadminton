@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "298dfa23a5c52ce81b85",
+    "revision": "4fc3499f01663c29fba8",
     "url": "/css/about.96aac889.css"
   },
   {
-    "revision": "d8196e523e7df6641ba4",
-    "url": "/css/app.6bd14ce2.css"
+    "revision": "f5a7d4d344a04a758378",
+    "url": "/css/app.9fdc2012.css"
   },
   {
-    "revision": "9a10344007de00740b4a",
-    "url": "/css/clubs.ff22e3ca.css"
+    "revision": "45c6cf1893b8d8970891",
+    "url": "/css/clubs.f7173aca.css"
   },
   {
-    "revision": "ad7c31323830fa291896",
+    "revision": "a50377a413d50b0de920",
     "url": "/css/constitution.51b28a4c.css"
   },
   {
-    "revision": "ecd060fb59a906aed578",
+    "revision": "a3eab122695757a8357a",
     "url": "/css/contact.c60ac52e.css"
   },
   {
-    "revision": "632eb631026bef2bb28c",
+    "revision": "f09c75c527c2af51b34d",
     "url": "/css/links.6ad4c264.css"
   },
   {
-    "revision": "b58e817c10cc88ff05c6",
+    "revision": "aa3dffe308e854e911af",
     "url": "/css/match-cards.a71bca52.css"
   },
   {
-    "revision": "536e09ca8bec312c47b4",
-    "url": "/css/results.45eef145.css"
+    "revision": "2cfa70dffd48dcd61eaf",
+    "url": "/css/results.1afc49af.css"
   },
   {
-    "revision": "1b3ca4395b7d257936e2",
+    "revision": "9994eea2e15f1a662237",
     "url": "/css/rules.8b4d7341.css"
   },
   {
-    "revision": "326d686321179fb5ed5d",
-    "url": "/css/tables.56bc00ae.css"
+    "revision": "0a0759cdff6e5528340b",
+    "url": "/css/tables.b11657c6.css"
   },
   {
     "revision": "f7c923f22581bfd115a155ea794d8852",
@@ -340,19 +340,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/data/2018-2019/nf-2.csv"
   },
   {
-    "revision": "e6c67301f01b8435a3e15bdc3a1fc189",
+    "revision": "6f553c1e09e3b593e5684496e1b2e940",
     "url": "/data/2019-2020/Ladies-1.csv"
   },
   {
-    "revision": "fdeb561d1d77ae1aeabe7845841a4474",
+    "revision": "1455d9da23f331b1ea83f4bb1067eefe",
     "url": "/data/2019-2020/Mens-1.csv"
   },
   {
-    "revision": "9c1b6ef68ec774cb628c95e02d5f32a0",
+    "revision": "f7539dde4bdbe1355ad58ac7efdf3204",
     "url": "/data/2019-2020/nf-1.csv"
   },
   {
-    "revision": "b88c2e403a39d484882c6394d8cf2fd1",
+    "revision": "41a4621b441b4534f8a917a061e074f9",
     "url": "/data/2019-2020/nf-2.csv"
   },
   {
@@ -420,55 +420,55 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/pdf.21a61439.jpg"
   },
   {
-    "revision": "43dae7e193515af7fe31a72cee4d4ce5",
+    "revision": "0f2467f173fc02a79d73d9cb05f380ae",
     "url": "/index.html"
   },
   {
-    "revision": "298dfa23a5c52ce81b85",
-    "url": "/js/about.23f7604e.js"
+    "revision": "4fc3499f01663c29fba8",
+    "url": "/js/about.70f46971.js"
   },
   {
-    "revision": "d8196e523e7df6641ba4",
-    "url": "/js/app.6e1e942a.js"
+    "revision": "f5a7d4d344a04a758378",
+    "url": "/js/app.a872ee6b.js"
   },
   {
-    "revision": "5f9ea3ce21423f061eba",
-    "url": "/js/chunk-vendors.fcd72047.js"
+    "revision": "59c9cc6a76321eac70f1",
+    "url": "/js/chunk-vendors.fdaab982.js"
   },
   {
-    "revision": "9a10344007de00740b4a",
-    "url": "/js/clubs.801fd39f.js"
+    "revision": "45c6cf1893b8d8970891",
+    "url": "/js/clubs.df7c55cc.js"
   },
   {
-    "revision": "ad7c31323830fa291896",
-    "url": "/js/constitution.6777f207.js"
+    "revision": "a50377a413d50b0de920",
+    "url": "/js/constitution.b30e0d68.js"
   },
   {
-    "revision": "ecd060fb59a906aed578",
-    "url": "/js/contact.6befb77e.js"
+    "revision": "a3eab122695757a8357a",
+    "url": "/js/contact.1407b82b.js"
   },
   {
-    "revision": "632eb631026bef2bb28c",
-    "url": "/js/links.66bca079.js"
+    "revision": "f09c75c527c2af51b34d",
+    "url": "/js/links.73cc1880.js"
   },
   {
-    "revision": "b58e817c10cc88ff05c6",
-    "url": "/js/match-cards.0ec0454a.js"
+    "revision": "aa3dffe308e854e911af",
+    "url": "/js/match-cards.b9b24ae1.js"
   },
   {
-    "revision": "536e09ca8bec312c47b4",
-    "url": "/js/results.532aa3a5.js"
+    "revision": "2cfa70dffd48dcd61eaf",
+    "url": "/js/results.07b7cedb.js"
   },
   {
-    "revision": "1b3ca4395b7d257936e2",
-    "url": "/js/rules.94ea053c.js"
+    "revision": "9994eea2e15f1a662237",
+    "url": "/js/rules.e64df25a.js"
   },
   {
-    "revision": "326d686321179fb5ed5d",
-    "url": "/js/tables.b6d65274.js"
+    "revision": "0a0759cdff6e5528340b",
+    "url": "/js/tables.d46caffa.js"
   },
   {
-    "revision": "f28e138da68bc0f59afbe9d5fa9adc3a",
+    "revision": "519050ef1c78f875dc034f585cde5ec6",
     "url": "/manifest.json"
   },
   {

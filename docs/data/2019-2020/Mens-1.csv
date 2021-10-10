@@ -1,13 +1,13 @@
-MONTH,DAY,DAY OF MONTH,HOME,AWAY,HOME GAMES,AWAY GAMES
-October,7:00pm Mon,7th,Four Marks,Eagles,12,1
-November,7:00pm Wed,6th,Eagles,Four Marks,0,12
-,8:00pm Tue,12th,The Grange,Eagles,12,0
-,7:00pm Wed,27th,Four Marks,The Grange,7,8
-December,7:00pm Wed,4th,Eagles,The Grange,0,12
-,8:00pm Tue,10th,The Grange,Four Marks,7,7
-January,8:00pm Tue,21st,The Grange,Four Marks,1,12
-,7:00pm Wed,29th,Four Marks,Eagles,12,0
-February,7:00pm Wed,5th,Eagles,The Grange
-March,7:00pm Wed,4th,Eagles,Four Marks
-,8:00pm Tue,10th,The Grange,Eagles
-,7:00pm Wed,25th,Four Marks,The Grange
+MONTH,TIME,DAY,HOME,AWAY,HOME POINTS,AWAY POINTS,HOME RUBBERS,AWAY RUBBERS
+October,7:00pm Mon,7th,Four Marks,Eagles,12,1,6,0
+November,7:20pm Wed,6th,Eagles,Four Marks,0,12,0,6
+,8:00pm Tue,12th,The Grange,Eagles,12,0,6,0
+,7:00pm Wed,27th,Four Marks,The Grange,7,8,2,4
+December,7:20pm Wed,4th,Eagles,The Grange,0,12,0,6
+,8:00pm Tue,10th,The Grange,Four Marks,7,7,3,3
+January,8:00pm Tue,21st,The Grange,Four Marks,1,12,0,6
+,7:00pm Wed,29th,Four Marks,Eagles,12,0,6,0
+March,7:20pm Wed,4th,Eagles,Four Marks,2,11,1,5
+,7:20pm Wed,18th,Eagles,The Grange,,,,
+,7:00pm Wed,25th,Four Marks,The Grange,,,,
+TBC,,,The Grange,Eagles,,,,
